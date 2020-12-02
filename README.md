@@ -8,7 +8,7 @@ The following describes what each project consisted of
 * articulating the value proposition for the chosen product
 * interviewing potential customers
 * creating an empathy map
-* cunstructing a customer persona based on the above
+* constructing a customer persona based on the above
 
 ## Project 2 - Market Your Content
 
